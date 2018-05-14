@@ -5,4 +5,4 @@ ver 0.4
 Upload Music
 Playing Music
 
-※It's for only purpose for personal practice.
+※It's only purpose for personal practice.
